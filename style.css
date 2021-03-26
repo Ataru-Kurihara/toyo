@@ -1,0 +1,33 @@
+h1 {
+    font-size: 50px;
+}
+li{
+    display: block;
+    text-align: -webkit-match-parent;
+}
+a:link {
+    color: red;
+}
+nav a{
+    padding: 15px 25px;
+    padding-top: 15px;
+    padding-right: 25px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+}
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+nav ul {
+    overflow: hidden;
+    margin: 0 0 10px 0;
+    padding: 0;
+    border: 1px soild #ddd;
+    line-height: 1.0;
+}
