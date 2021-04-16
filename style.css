@@ -1,9 +1,24 @@
 body {
-    background-color:white;
+    background-img:url("tool/サムネ.png")
 }
-
+a1 {
+    font-size: 16px;
+    padding: 20px 10px;
+    padding-top: 20px;
+        padding-right: 10px;
+        padding-bottom: 20px;
+        padding-left: 10px;
+}
 h1 {
+    font-size: 25px;
+    border-bottom: 1px solid #ddd;
+}
+h {
     font-size: 50px;
+    /*border-bottom: 10px solid blue;*/
+}
+.center {
+    text-align: center;
 }
 li{
     display: block;
