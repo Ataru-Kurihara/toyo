@@ -74,3 +74,11 @@ nav ul {
     border: 1px soild #ddd;
     line-height: 1.0;
 }
+p {
+   position: absolute;
+   right: 0;
+   bottom: 100;
+}
+a2 {
+    font-size: 30px;
+}
