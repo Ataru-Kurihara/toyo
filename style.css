@@ -1,6 +1,7 @@
 body {
-    background-img:url("tool/サムネ.png")
+    background-img:url("tool/home2.png")
     background-size: cover;
+    background-attachment:fixed;
 }
 a1 {
     font-size: 16px;
