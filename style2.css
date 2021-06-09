@@ -1,0 +1,86 @@
+body {
+    background-img:url("tool/home2.png")
+    background-size: cover;
+    background-attachment:fixed;
+}
+a1 {
+    font-size: 16px;
+    padding: 20px 10px;
+    padding-top: 20px;
+        padding-right: 10px;
+        padding-bottom: 20px;
+        padding-left: 10px;
+}
+h1 {
+    font-size: 25px;
+    border-bottom: 1px solid #ddd;
+}
+h {
+    font-size: 50px;
+    /*border-bottom: 10px solid blue;*/
+}
+h2 {
+    font-size: 25px;
+    text-align: center;
+}
+.center {
+    text-align: center;
+}
+li{
+    display: block;
+    text-align: -webkit-match-parent;
+}
+a:link {
+    color: red;
+    text-decoration: none;
+    position: relative;
+    display: inline-block;
+    transition: .3s;
+}
+
+a::after {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    content: '';
+    width: 0;
+    height: 2px;
+    background-color: #31aae2;
+    transition: .3s;
+    transform: translateX(-50%);
+}
+
+a:hover::after {
+    width: 100%;
+}
+nav a{
+    padding: 15px 25px;
+    padding-top: 20px;
+    padding-right: 25px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+}
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+nav ul {
+    overflow: hidden;
+    margin: 0 0 10px 0;
+    padding: 0;
+    border: 1px soild #ddd;
+    line-height: 1.0;
+}
+p {
+   position: absolute;
+   right: 0;
+   bottom: 100;
+}
+a2 {
+    font-size: 30px;
+}
