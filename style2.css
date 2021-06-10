@@ -1,7 +1,8 @@
 body {
-    background-color: red;
-/*    background-image: url('home2.png')
-    background-repeat: no-repeat;
+    background-image: url('tool\home2.png')
+    height:500px;
+    min-width:100%;
+/*    background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: right bottom*/
 }
