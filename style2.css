@@ -1,16 +1,17 @@
 body {
-    background-image: url("tool/home2.png")
+    background-color: red;
+/*    background-image: url('home2.png')
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: right bottom
+    background-position: right bottom*/
 }
 a1 {
     font-size: 16px;
     padding: 20px 10px;
     padding-top: 20px;
-        padding-right: 10px;
-        padding-bottom: 20px;
-        padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    padding-left: 10px;
 }
 h1 {
     font-size: 25px;
