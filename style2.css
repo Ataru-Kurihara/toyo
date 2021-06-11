@@ -3,7 +3,7 @@ body {
     background-image:url('tool/home2.png');
     background-position: center;
     background-repeat: no-repeat;
-    background-size: auto auto;
+    background-size: cover;
 }
 a1 {
     font-size: 16px;
