@@ -1,7 +1,6 @@
 body {
-    height:500px;
-    min-width:100%;
-
+    background-image:url('tool/home2.png');
+    background-attachment:fixed;
 }
 a1 {
     font-size: 16px;
