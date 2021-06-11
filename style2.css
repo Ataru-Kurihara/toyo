@@ -3,7 +3,7 @@ body {
     background-image:url('tool/home2.png');
     background-position: center;
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     /*background-attachment:fixed;*/
 }
 a1 {
