@@ -1,8 +1,9 @@
 body {
-    width:auto;
-    height:auto;
+    margin: 0;
     background-image:url('tool/home2.png');
+    background-position: center;
     background-repeat: no-repeat;
+    background-size: contain;
     background-attachment:fixed;
 }
 a1 {
