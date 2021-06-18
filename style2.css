@@ -1,6 +1,7 @@
 html, body {height: 100%;}
 body {
     margi: 0;
+    padding: 20;
     background-image: url(tool/home2.png);
     background-position: center;
     background-size: cover;
