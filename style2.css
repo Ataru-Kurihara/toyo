@@ -3,7 +3,7 @@ html, body {
     background-image: url(tool/home2.png);
     background-position: center;
     background-size: contain;
-
+    background-repeat: no-repeat;
 }
 body {
     margi: 0;
