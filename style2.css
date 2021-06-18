@@ -1,8 +1,9 @@
 html, body {
     height: 100%;
-        background-image: url(tool/home2.png);
-        background-position: center;
-        background-size: cover;
+    background-image: url(tool/home2.png);
+    background-position: center;
+    background-size: contain;
+
 }
 body {
     margi: 0;
