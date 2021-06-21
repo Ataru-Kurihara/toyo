@@ -1,8 +1,8 @@
 html, body {
     height: 100%;
     background-image: url(tool/home2.png);
+    background-position: center;
     background-position: bottom;
-    background-position: 50% 50%:
     background-size: contain;
     background-repeat: no-repeat;
 }
