@@ -3,17 +3,14 @@ clear:both;
 line-height:0;
 }
 
-#mainBanner .image{position:relative;}
+#mainBanner .image {position:relative;}
 
-#mainBanner img{
+#mainBanner img {
 position:absolute;
 max-width:100%;
 height:auto;
 }
-body {
-    margi: 0;
 
-}
 a1 {
     font-size: 16px;
     padding: 20px 10px;
