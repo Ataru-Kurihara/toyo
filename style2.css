@@ -1,15 +1,18 @@
-html, body {
-    height: 100%;
-    background-image: url(tool/home2.png);
-    background-position: bottom;
-    background-size: contain;
-    background-repeat: no-repeat;
+#mainBanner{
+clear:both;
+line-height:0;
+}
+
+#mainBanner .image{position:relative;}
+
+#mainBanner img{
+position:absolute;
+max-width:100%;
+height:auto;
 }
 body {
     margi: 0;
-/*    background-image: url(tool/home2.png);
-    background-position: center;
-    background-size: cover;*/
+
 }
 a1 {
     font-size: 16px;
