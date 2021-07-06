@@ -5,7 +5,7 @@ clear:both;
 line-height:0;
 }
 
-#mainBanner .image {position:relative;}
+#mainBanner .image {position:center;}
 
 #mainBanner img {
 position:absolute;
