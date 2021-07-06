@@ -32,7 +32,12 @@ a:link {
     display: inline-block;
     transition: .3s;
 }
-
+b:link {
+    text-decoration: none;
+    position: relative;
+    display: inline-block;
+    transition: .3s;
+}
 a::after {
     position: absolute;
     bottom: 0;
